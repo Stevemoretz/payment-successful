@@ -5,6 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Payment Success</title>
     <style>
+        @import url(//db.onlinewebfonts.com/c/235b71a9b409e684e865eb4a996e925e?family=IRANYekan);
+        *{
+            font-family: IRANYekan;
+        }
         .payment-success-button{
             transition: all 0.5s;
             margin-top: 10px;border-radius: 100px;font-size: 12px;background : linear-gradient(to right,#CA64DE,#7625D5);outline: none;cursor : pointer;color: white;padding: 12px 8px;border: 1px solid #C8CADA
