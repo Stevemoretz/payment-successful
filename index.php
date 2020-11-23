@@ -24,10 +24,10 @@
         }
     </style>
 </head>
-<body style="width: 100vw;height: 100vh;overflow: hidden;display: flex;justify-content: center;">
+<body style="width: 100vw;height: 100vh;overflow: hidden;display: flex;justify-content: center;margin: 0">
     <div style="width: 100%;height: 100%;background-image : url(background.jpg);background-repeat: repeat;position: absolute;filter: blur(2px)"></div>
     <div style="display: flex;flex-direction: column;justify-content: center;align-items: center;z-index: 100" class="wrapper">
-        <div style="display: flex;flex-direction: column;justify-content: center;align-items: center;background-color: rgba(164,164,164,0.89);border-radius: 12px;padding: 20px">
+        <div style="display: flex;flex-direction: column;justify-content: center;align-items: center;background-color: rgba(255,255,255,0.89);border-radius: 12px;padding: 20px">
             <img style="object-fit: scale-down;width: 120px" src="./logo.png"/>
             <span style="margin-top: 10px;color: #2B1684">.کیف پول شما با موفقیت شارژ شد</span>
             <div style="height: 1px;margin-top: 15px;width: 200px;background-color: rgba(255,255,255,0.68)"></div>
